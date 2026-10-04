@@ -1,8 +1,8 @@
-AIDANA BEAUTY --- Assignment #3
+### AIDANA BEAUTY --- Assignment #3
 
 Name: Aidana Muratova
 
-Project
+### Project
 
 AIDANA BEAUTY is a responsive cosmetology and beauty studio website. The
 page presents beauty procedures, prices, information about the studio,
@@ -11,7 +11,7 @@ and contact details.
 The main goal of the project is to demonstrate responsive web design
 using CSS Media Queries and the Bootstrap 12-column Grid.
 
-Task 0 --- Responsive Typography
+### Task 0 --- Responsive Typography
 
 For the first task, I created the introductory section of the AIDANA
 BEAUTY website.
@@ -39,9 +39,9 @@ Screenshot:
 
 Add the Task 0 screenshot here:
 
-/task0-responsive-typography.png
+![Task1](task0-responsive-typography.png)
 
-Task 1 --- Responsive Layout with Media Queries
+### Task 1 --- Responsive Layout with Media Queries
 
 For this task, I created three information boxes:
 
@@ -63,9 +63,9 @@ layout.
 Screenshot:
 
 
-/task1-responsive-layout.png
+![Task2](task1-responsive-layout.png)
 
-Task 2 --- Bootstrap Responsive Columns
+### Task 2 --- Bootstrap Responsive Columns
 
 For this task, I used the Bootstrap 12-column grid to display three
 cosmetology services:
@@ -85,9 +85,9 @@ stack vertically on mobile.
 
 Screenshot:
 
-/task2-bootstrap-grid.png
+![Task2](task2-bootstrap-grid.png)
 
-Task 3 --- Bootstrap Navigation Bar
+### Task 3 --- Bootstrap Navigation Bar
 
 The website has a responsive Bootstrap navigation bar.
 
@@ -104,9 +104,9 @@ Benefits, Services, Portfolio, and Contact.
 
 Screenshot:
 
-/task3-navbar.png
+![Task3](task3-navbar.png)
 
-Task 4 --- Responsive Portfolio Page
+### Task 4 --- Responsive Portfolio Page
 
 For the final task, I combined CSS Media Queries with the Bootstrap
 Grid.
@@ -144,9 +144,9 @@ mobile, tablet, laptop, and desktop screen sizes.
 
 Screenshot:
 
-/task4-portfolio.png
+![Task4](task4-portfolio.png)
 
-Work Process
+### Work Process
 
 I started by choosing a cosmetology and beauty studio as the topic of
 the project. I planned the page around beauty procedures, prices, a
@@ -166,7 +166,7 @@ into one responsive portfolio page.
 I checked the layout at different screen sizes and organized the project
 into HTML, CSS, and image files.
 
-Project Structure
+### Project Structure
 
 assignment3/
 *index.html
@@ -185,7 +185,7 @@ The screenshots folder contains the images used in the website. The
 report screenshots should be placed in a separate README_images folder
 so they are not mixed with the website images.
 
-Technologies Used
+### Technologies Used
 
 HTML5
 
@@ -199,7 +199,7 @@ Bootstrap Grid System
 
 Bootstrap is connected through a CDN.
 
-Conclusion
+### Conclusion
 
 This assignment helped me practice responsive web design. I worked with
 CSS Media Queries, Bootstrap's 12-column grid, and a responsive
