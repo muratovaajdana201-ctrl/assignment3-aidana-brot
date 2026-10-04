@@ -1,7 +1,6 @@
 AIDANA BEAUTY --- Assignment #3
 
 Name: Aidana Muratova
-Group: [Write your group here]
 
 Project
 
@@ -40,7 +39,7 @@ Screenshot:
 
 Add the Task 0 screenshot here:
 
-README_images/task0-responsive-typography.png
+/task0-responsive-typography.png
 
 Task 1 --- Responsive Layout with Media Queries
 
@@ -63,9 +62,8 @@ layout.
 
 Screenshot:
 
-Add the Task 1 screenshot here:
 
-README_images/task1-responsive-layout.png
+/task1-responsive-layout.png
 
 Task 2 --- Bootstrap Responsive Columns
 
@@ -87,9 +85,7 @@ stack vertically on mobile.
 
 Screenshot:
 
-Add the Task 2 screenshot here:
-
-README_images/task2-bootstrap-grid.png
+/task2-bootstrap-grid.png
 
 Task 3 --- Bootstrap Navigation Bar
 
@@ -108,9 +104,7 @@ Benefits, Services, Portfolio, and Contact.
 
 Screenshot:
 
-Add the Task 3 screenshot here:
-
-README_images/task3-navbar.png
+/task3-navbar.png
 
 Task 4 --- Responsive Portfolio Page
 
@@ -150,9 +144,7 @@ mobile, tablet, laptop, and desktop screen sizes.
 
 Screenshot:
 
-Add the Task 4 screenshot here:
-
-README_images/task4-portfolio.png
+/task4-portfolio.png
 
 Work Process
 
